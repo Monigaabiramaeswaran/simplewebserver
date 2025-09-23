@@ -4,30 +4,32 @@ content = """
  <html>
     <head>
         <title>
-            Tabular column
+            my webserver
         </title>
     </head>
     <body>
+    <caption><b>A.MONIGA (25017526) </b></caption>
         <table border="5" cellpadding="3"
         <tr>
             <th>S.No</th>
             <th>Data specifications</th>
             <th>Type</th>
         </tr>
+    
         <tr>
             <td>1</td>
             <td>Device name</td>
-            <td>TMP215-75-G2</td>
+            <td>TMP765-75-G2</td>
         </tr>
         <tr>
             <td>2</td>
             <td>Processor</td>
-            <td>Intel(R) Core(TM) Ultra 5 125H(1.20 GHz)</td>
+            <td>Intel(R) Core(TM) Ultra 5 125H(1.50 GHz)</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Installed RAM</td>
-            <td>16.0 GB (15.5 GB usable)</td>
+            <td>16.0 GB (16.5 GB usable)</td>
         </tr>
         <tr>
             <td>4</td>
@@ -37,7 +39,7 @@ content = """
         <tr>
             <td>5</td>
             <td>Product ID</td>
-            <td>00342-42784-08438-AAOEM</td>
+            <td>00469-42674-08438-AAOEM</td>
         </tr>
     </body>
 </html>
